@@ -1,6 +1,6 @@
 # Cthulhusay
 
-Cthulhusay is the one and only cthulhu-fhtagn-ator (not true, but who cares): an extremely sophisticated software to generate curses and/or cake recipes in R'lyehian (also known as Cthuvian).
+Cthulhusay is the one and only Python cthulhu-fhtagn-ator (not true, but who cares): an extremely sophisticated software to generate curses and/or cake recipes in R'lyehian (also known as Cthuvian).
 
 Forget about cowsay: it's time to talk like a Great Old.  Also, don't forget to walk like a R'lyehian.
 
