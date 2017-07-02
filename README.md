@@ -4,6 +4,7 @@ Cthulhusay is the one and only Python cthulhu-fhtagn-ator (not true, but who car
 
 Forget about cowsay: it's time to talk like a Great Old.  Also, don't forget to walk like a R'lyehian.
 
+Words were taken from https://www.yog-sothoth.com/wiki/index.php/R'lyehian
 
 ## Eeerrr... Ok, I guess, but why?
 
@@ -15,9 +16,13 @@ Seriously?
 
 ## I see. What now?
 
-Kn'a nilgh'ri mg r'luhog ep nww mg f'nww uaaahhor bug.
+Kn'a nilgh'ri mg r'luhog ep nww mg f'nww uaaahhor bugg.
 
 Which can be translated more or less like "let's add some bugs together to this code": add some feature and do a pull request.
+
+## I'm not sure that Python is truly a R'lyehian language...
+
+You may be right. Here it is the JavaScript version: https://github.com/alberanid/cthulhusay.js
 
 ## License and copyright
 
