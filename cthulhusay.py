@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """R'lyehian language generator.  The one and only cthulhu-fhtagn-ator.
 
-Copyright 2017 Davide Alberani <da@erlug.linux.it>
+Copyright 2017 Davide Alberani <da@mimante.net>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -18,6 +18,7 @@ limitations under the License.
 import random
 
 # Summoned from https://www.yog-sothoth.com/wiki/index.php/R'lyehian
+# New translator: https://www.naguide.com/call-of-cthulhu-rlyehian-language-guide/
 WORDS = ["'ai", "'bthnk", "'fhalma", 'ah', 'athg', 'bug', "ch'", 'chtenff', 'ebumna', 'ee', 'ehye', 'ep', 'fhtagn',
          "fm'latgh", 'ftaghu', 'geb', 'gnaiih', "gof'nn", 'goka', 'gotha', "grah'n", "hafh'drn", 'hai', 'hlirgh',
          'hrii', 'hupadgh', 'ilyaa', "k'yarnak", 'kadishtu', "kn'a", "li'hee", 'llll', 'lloig', "lw'nafh", "mnahn'",

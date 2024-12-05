@@ -26,7 +26,7 @@ You may be right. Here it is the JavaScript version: https://github.com/alberani
 
 ## License and copyright
 
-Copyright 2017 Davide Alberani <da@erlug.linux.it>
+Copyright 2017 Davide Alberani <da@mimante.net>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
